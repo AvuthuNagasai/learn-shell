@@ -1,3 +1,4 @@
-1.ls
-2.PWD
+ls
+pwd
 
+yum installed | grep vim
