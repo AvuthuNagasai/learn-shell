@@ -5,3 +5,6 @@
 Types  of shell scripting
 
 hello
+
+
+i prefer python over java
